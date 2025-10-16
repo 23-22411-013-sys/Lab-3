@@ -7,3 +7,4 @@ Another line added locally.
 This is the first test line.
 This is a small update for the amend commit task.
 Added another line that was forgotten earlier.
+# Local edit done
