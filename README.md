@@ -12,3 +12,4 @@ Added another line that was forgotten earlier.
 # Remote Edit again
 # Local edit again
 Hello from Remote
+Hello from Local
