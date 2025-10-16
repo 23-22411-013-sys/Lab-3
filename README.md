@@ -9,3 +9,5 @@ This is a small update for the amend commit task.
 Added another line that was forgotten earlier.
 # Local edit done
 # Remote edit done
+# Remote Edit again
+
